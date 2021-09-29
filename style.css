@@ -14,10 +14,11 @@ body{
     position: absolute;
     left: 450px;
     top: 200px;
-    color: white;
+    color: #148594;
+    font-size: x-large;
 }
 .container>h1{
-    font-family: 'Zen Dots', cursive ;
+    font-family: 'Concert One', cursive;
     margin-bottom: 5px;
 }
 .clock-item{
@@ -31,8 +32,8 @@ body{
     margin: 10px;
     background-color: white;
     color: black;
-    font-family: 'Zen Dots', cursive;
-    font-size: 28px;
+    font-family: 'Concert One', cursive;
+    font-size: 40px;
     font-weight: 900;
     border-radius: 5px;
 }
